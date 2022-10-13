@@ -1,0 +1,34 @@
+.home {
+    width: 100%;
+    height: 88vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  
+  .headerContainer {
+    width: auto;
+    margin-left: 50px;
+  }
+  
+  .headerContainer h1 {
+   color: rgb(7, 7, 7);
+  
+  }
+  
+  .headerContainer button {
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    height: 50px;
+    width: 180px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    
+  }

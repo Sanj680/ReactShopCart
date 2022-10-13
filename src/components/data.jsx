@@ -1,0 +1,61 @@
+
+const data ={
+    productData:[
+        {
+            id:1,
+            img:require("../images/img1.jpg"),
+            title:'Tomato',
+            desc:'',
+            price:46,
+        },
+        {
+            id:2,
+            img:require("../images/img2.jpg"),
+            title:'LadiesFinger',
+            desc:'',
+            price:50,
+        }, {
+            id:3,
+            img:require("../images/img3.jpg"),
+            title:'Potato',
+            desc:'',
+            price:53,
+        },
+        {
+            id:4,
+            img:require("../images/img4.jpg"),
+            title:'Capsicum',
+            desc:'',
+            price:62,
+        },
+        {
+            id:5,
+            img:require("../images/img5.jpg"),
+            title:'Brinjal',
+            desc:'',
+            price:60,
+        },
+        {
+            id:6,
+            img:require("../images/img6.jpg"),
+            title:'Cabbage',
+            desc:'',
+            price:47,
+        },
+        {
+            id:7,
+            img:require("../images/img7.jpg"),
+            title:'Carrot',
+            desc:'',
+            price:49,
+        },
+        {
+            id:8,
+            img:require("../images/img8.jpg"),
+            title:'Onion',
+            desc:'',
+            price:56,
+        },
+    ]
+};
+export default data;
